@@ -6,7 +6,7 @@ An Android app that displays a long article about the *Beatles Anthology Vol. 1*
 
 | Top of the article | Scrolled down | After clicking the button |
 |:---:|:---:|:---:|
-| ![Top of the article](screenshots/screenshot1.png) | ![Scrolled down](screenshots/screenshot2.png) | ![Toast message](screenshots/screenshot3.png) |
+| <img width="250" alt="Top of the article" src="https://github.com/user-attachments/assets/9a3a154c-44c5-4efd-b42a-f4797e369226" /> | <img width="250" alt="Scrolled down" src="https://github.com/user-attachments/assets/c414fbbf-167b-4ef0-a5d4-0c0eb875f0a9" /> | <img width="250" alt="After clicking the button" src="https://github.com/user-attachments/assets/2370027b-a642-4f94-8aca-f7ced8668063" /> |
 
 ## Features
 
@@ -41,6 +41,3 @@ app/src/main/
     ├── layout/activity_main.xml    → the layout
     └── values/strings.xml          → all texts
 ```
-
----
-*Adapted from Android Developer Fundamentals – Homework 1.3*
